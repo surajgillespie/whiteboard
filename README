@@ -1,0 +1,8 @@
+This application consists of two parts.
+1)The java applet "paint" (run on the pc) which receives coordinates from the android application
+2)The android application which on sensing the touch on its screen will send the respective coordinates to the applet.
+  The ip address of the pc should be entered to set up the tcp connetion btw the andoid app and the applet on the pc
+
+
+Please note that both the phone and pc should be on the same network.  
+
